@@ -73,4 +73,4 @@ Sources and licenses of the data (Yale Bright Star Catalogue, Hipparcos, d3-cele
 (c) 2026 makotamu. All rights reserved.
 
 - 任天堂とは関係のない非公式の自作ソフトです。使用は自己責任でお願いします。 / Unofficial homebrew, not affiliated with Nintendo. Use at your own risk.
-- 無断での転載・改変・再配布はご遠慮ください。 / Please do not redistribute, modify or re-upload without permission.
+- 無断での転載・再配布はご遠慮ください。 / Please do not redistribute or re-upload without permission.
