@@ -39,8 +39,8 @@ Point your 3DS at the sky to see the stars, constellations, Sun, Moon and planet
 3. 太陽・月・北極星のどれかを画面中央の十字に合わせて A を押します（白い線と緑の線を重ねると正確です）。<br>
    Center the Sun, the Moon or Polaris in the crosshair and press A (overlap the white and green lines for best results).
 
-3DS には方位磁石が無いので、この位置合わせで方角を決めます。ずれてきたら A で何度でもやり直せます。<br>
-The 3DS has no compass, so this step sets the direction. If the view drifts, press A to align again.
+この位置合わせで方角を決めます。ずれてきたら A で何度でもやり直せます。<br>
+This step sets the direction. If the view drifts, press A to align again.
 
 ## 操作 / Controls
 
