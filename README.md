@@ -54,7 +54,7 @@ This step sets the direction. If the view drifts, press A to align again.
 | L | 録画の開始／停止（止めたあと A で AVI に書き出し） / Start/stop recording (press A afterwards to export an AVI) |
 | SELECT | 設定 / Settings |
 | START | 終了 / Exit |
-| 3D ボリューム / 3D slider | 星座が星の本当の距離に応じて立体に見えます / Constellations appear in 3D according to the real distances of their stars |
+| 3D ボリューム / 3D slider | 星座が立体に見えます / Constellations appear in 3D |
 
 ## 注意 / Notes
 
