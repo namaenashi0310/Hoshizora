@@ -60,8 +60,8 @@ This step sets the direction. If the view drifts, press A to align again.
 
 - 本体の時計は観測地の現地時間に合わせてください（時差・夏時間は自動計算）。ずれると星の位置もずれます。<br>
   Set the system clock to the local time of your site (time zone and daylight saving time are handled automatically). A wrong clock shifts the stars.
-- 録画は SD:/3ds/star/ に保存され、1 秒あたり約 17MB（最長 30 秒）使います。<br>
-  Videos are saved to SD:/3ds/star/ and use about 17 MB per second (up to 30 s).
+- 録画は SD:/3ds/star/ に保存され、1 秒あたり約 17MB 使います。<br>
+  Videos are saved to SD:/3ds/star/ and use about 17 MB per second.
 
 ## クレジット / Credits
 
