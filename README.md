@@ -2,7 +2,7 @@ Hoshizora (ほしぞら) v1.0.0 — 3DS 用 星座観察アプリ / Constellatio
 (c) 2026 makotamu. All rights reserved.
 
 
-##～日本語～
+###～日本語～
 
 本体を空にかざすと、その方向の星空・星座線・太陽・月・惑星を表示します。
 約 9100 個の恒星、88 星座の線と解説、星座の立体視、録画（AVI）に対応。
@@ -44,7 +44,7 @@ Hoshizora (ほしぞら) v1.0.0 — 3DS 用 星座観察アプリ / Constellatio
 THIRD_PARTY_NOTICES.txt と「設定 → クレジット」にあります。
 
 
-##～English～
+###～English～
 
 Point your 3DS at the sky to see the stars, constellation lines, Sun, Moon and planets in that direction.
 About 9,100 stars, lines and descriptions for all 88 constellations, stereoscopic 3D and video recording (AVI).
